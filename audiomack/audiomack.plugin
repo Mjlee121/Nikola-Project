@@ -1,0 +1,13 @@
+[Core]
+name = audiomack
+module = audiomack
+
+[Nikola]
+compiler = rest
+PluginCategory = CompilerExtension
+
+[Documentation]
+author = Martin Lee
+version = 0.1
+website = https://getnikola.com/#audiomack
+description = An online mp3 player that can embed a song or playlist into the site. 

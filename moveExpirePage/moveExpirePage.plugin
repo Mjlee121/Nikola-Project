@@ -1,0 +1,14 @@
+[Core]
+Name = moveExpirePage
+Module = moveExpirePage
+
+[Nikola]
+MinVersion = 6.0.0
+MaxVersion = 7.2.0
+PluginCategory = Task
+
+[Documentation]
+Author = Martin Lee
+Version = 0.1
+Website = http://plugins.getnikola.com/#moveExpirePage
+Description = Show an expired post by random
