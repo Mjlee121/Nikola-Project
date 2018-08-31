@@ -1,0 +1,15 @@
+[Core]
+name = setup_event
+module = setup_event
+
+[Nikola]
+PluginCategory = CompilerExtension
+Compiler = rest
+MinVersion = 7.4.1
+
+[Documentation]
+author = Martin Lee
+version = 1.0
+website = https://getnikola.com/
+description = Create a new event page with duration time.
+
