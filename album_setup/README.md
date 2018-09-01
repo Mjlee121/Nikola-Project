@@ -45,7 +45,7 @@ will result in:
         		<img src="http://getnikola.com/galleries/demo/tesla2_lg.jpg" alt="Get Nikola" />
         	</a>
         </div>
-        <div class="book-figure-content">
+        <div class="album-figure-content">
         	<a class="album-figure-title" href="http://getnikola.com/" target="_blank">Get Nikola</a>
         	<p class="album-figure-artist">by <a href="http://ralsina.me/" target="_blank">Roberto Alsina</a></p>
         	<table class="book-figure-book-number">
