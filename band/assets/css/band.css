@@ -240,22 +240,6 @@ ul.pager li a {
     padding: 0 10px;
     text-align: center;
 }
-/*
-ul.pager .previous a:before {
-    content: "« ";
-}
-
-ul.pager .next a:after {
-    content: " »";
-}
-*/
-/* reset from base theme *//*
-.postindexpager .pager .next:before,
-.postindexpager .pager .previous:before,
-.postpromonav .pager .next:after,
-.postpromonav .pager .previous:before {
-    content: "";
-}*/
 
 .lead {
     font-size: 1.3em;
